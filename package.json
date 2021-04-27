@@ -1,5 +1,5 @@
 {
-  "name": "statuscodes",
+  "name": "@yehonadav/statuscodes",
   "version": "1.0.5",
   "description": "enum mapping for http status codes",
   "author": "yehonadav",

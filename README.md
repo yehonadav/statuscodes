@@ -3,7 +3,7 @@
 ## install
 
 ```
-npm i statuscodes
+npm i @yehonadav/statuscodes
 ```
 
 enum mapping for http status codes: 
