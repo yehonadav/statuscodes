@@ -1,6 +1,6 @@
 {
   "name": "statuscodes",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "enum mapping for http status codes",
   "author": "yehonadav",
   "license": "Apache-2.0",
